@@ -27,7 +27,7 @@ How can this work with a user's wallet on the blockchain instead of a standard c
 There are no right or wrong answers to this test and the purspose is to serve as a tool for discussion.
 
 
-
+---
 
 
 *Aim to spend 1-2 hours on these tasks.  There is no need to produce perfect answers.*
