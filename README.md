@@ -1,4 +1,4 @@
-Part 1 - Some code
+#Part 1 - Some code
 
 Solidity and most other smart contract languages are deterministic. Sometimes they need data that is outside of the blockchain.
 
@@ -17,7 +17,7 @@ The smart contract should store this list of games.
 Only the owner of the contract can call this function.
 
 
-Part 2 - Some pictures
+#Part 2 - Some pictures
 
 Please draw up a basic diagram of how you might model a flow for a system where there is a wallet that also acts as a single sign on mechanism to multiple casinos.  For example, like login with facebook.
 
