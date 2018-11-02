@@ -1,0 +1,11 @@
+{
+  "first_name": "Philip",
+  "last_name": "Mason",
+  "position": "Casino owner",
+  "age": "59",
+  "game_list": [
+    "Blackjack",
+    "Poker",
+    "Baccarat"
+  ]
+}
